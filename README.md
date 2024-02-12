@@ -1,4 +1,5 @@
-# valentine
+# Flutter Firebase Valentine Special Web App
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/S3X6inIvD9M/0.jpg)](http://www.youtube.com/watch?v=S3X6inIvD9M)
 
 This is a Flutter application that presents a playful and interactive Valentine's Day proposal to the user. The application uses the `animated_background` and `lottie` packages to create a visually appealing and dynamic interface.
 
